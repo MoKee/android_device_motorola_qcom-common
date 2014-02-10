@@ -140,5 +140,5 @@ for FILE in `egrep -v '(^#|^$)' ../qcom-common/common-proprietary-files.txt`; do
     fi
 done
 
-echo "This is designed to extract files from an official cm-11.0 build"
+echo "This is designed to extract files from an official kk_mkt build"
 ../qcom-common/setup-makefiles.sh
