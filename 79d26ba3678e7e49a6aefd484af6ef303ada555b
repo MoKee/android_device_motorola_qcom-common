@@ -6,6 +6,14 @@ Reviewed-on: http://review.mfunz.com/4260
 Project: MoKee/android_device_motorola_qcom-common
 Branch: refs/heads/kk_mkt
 
+Code-Review+2: Martincz Gao <martincz@mokeedev.com>
+Verified+1: Martincz Gao <martincz@mokeedev.com>
+Submitted-by: Martincz Gao <martincz@mokeedev.com>
+Submitted-at: Mon, 30 Dec 2013 14:50:41 +0800
+Reviewed-on: http://review.mfunz.com/4260
+Project: MoKee/android_device_motorola_qcom-common
+Branch: refs/heads/kk_mkt
+
 Code-Review+2: martincz <martincz@mokeedev.com>
 Verified+1: martincz <martincz@mokeedev.com>
 Submitted-by: martincz <martincz@mokeedev.com>
